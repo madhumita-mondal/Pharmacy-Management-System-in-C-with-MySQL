@@ -1,4 +1,7 @@
 # Pharmacy-Management-System-in-C++ with-MySQL
+
+![image](https://user-images.githubusercontent.com/48853024/209747423-69ec1b71-7dd0-492d-b60a-53e55ec314e7.png)
+
 This C++ program is a pharmacy management system can store the medicine information and create purchase and generate total amount of purchase.
 ![image](https://user-images.githubusercontent.com/48853024/209743135-084436a1-04e9-45d2-bb03-7eab70f73778.png)
 Global variables used in Pharmacy Management System in C++ with MySQL
