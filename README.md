@@ -1,1 +1,1 @@
-# Pharmacy-Management-System-in-C-with-MySQL
+# Pharmacy-Management-System-in-C++ with-MySQL
